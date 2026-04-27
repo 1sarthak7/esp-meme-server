@@ -48,3 +48,12 @@ Once flashed, the ESP8266 will broadcast the fake network. Connect to it from an
 This project is intended for educational and entertainment purposes only. Please use responsibly and do not use it to harm or disrupt networks that do not belong to you.
 
 </div>
+
+### Created By
+
+**Sarthak Bhopale**
+<br>
+[GitHub Profile](https://github.com/1sarthak7)
+
+</div>
+
