@@ -20,6 +20,7 @@ This project turns an ESP8266 into a honeypot for people trying to steal WiFi. I
 ---
 
 ### Setup Instructions
+</div>
 
 #### 1. Configure the Code
 Open `Main.ino` and configure the network settings:
@@ -33,6 +34,8 @@ Connect your ESP8266 to your computer and upload the `Main.ino` sketch using the
 Once flashed, the ESP8266 will broadcast the fake network. Connect to it from any device, and the captive portal should automatically pop up and trigger the prank!
 
 ---
+
+<div align="center">
 
 ### Disclaimer
 
