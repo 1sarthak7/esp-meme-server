@@ -12,15 +12,6 @@ This project turns an ESP8266 into a honeypot for people trying to steal WiFi. I
 
 ---
 
-### Key Features
-
-* **Captive Portal:** Forces users to a specific web page upon connection.
-* **Fake Access Point:** Broadcasts an open SSID to attract unauthorized users.
-* **Prank Execution:** Displays a loud audio and visual prank when the user tries to get WiFi.
-* **Dual Mode:** Runs in AP+STA mode (Access Point and Station).
-
----
-
 ### Hardware Requirements
 
 * ESP8266 Microcontroller (e.g., NodeMCU, Wemos D1 Mini)
