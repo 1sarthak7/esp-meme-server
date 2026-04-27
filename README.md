@@ -10,6 +10,8 @@
 
 This project turns an ESP8266 into a honeypot for people trying to steal WiFi. It broadcasts a fake, open WiFi network. When a user connects and attempts to log in or access the internet, they are redirected to a captive portal. Instead of granting access, it triggers a humorous prank featuring an image and loud audio.
 
+</div>
+
 ---
 
 ### Hardware Requirements
